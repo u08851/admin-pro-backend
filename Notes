@@ -1,0 +1,4 @@
+npm run start:dev
+
+
+npm i bcryptjs  --> ayuda a encriptar contraseñas
