@@ -1,4 +1,10 @@
 npm run start:dev
-
-
 npm i bcryptjs  --> ayuda a encriptar contraseñas
+
+//a instalar
+ -- express-fileupload  --> npm i express-fileupload
+ --uuid  --> npm i uuid 
+
+Alt + 96 = `
+Alt + 0180 = ´
+Alt + 39 = '
