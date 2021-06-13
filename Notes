@@ -8,3 +8,9 @@ npm i bcryptjs  --> ayuda a encriptar contraseñas
 Alt + 96 = `
 Alt + 0180 = ´
 Alt + 39 = '
+
+
+
+//Git comands
+    - git tag -a v0.11.0 -m "Crud y file upload"
+    - git push --tags
